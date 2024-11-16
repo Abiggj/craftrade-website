@@ -69,7 +69,7 @@ const StockPredictor = () => {
 
   return (
     <div className="bg-white p-10 rounded-lg shadow-lg max-w-3xl mx-auto">
-      <h1 className="text-3xl font-extrabold mb-8 text-blue-800 text-center">Stock Predictor</h1>
+      <h1 className="text-3xl font-extrabold mb-8 text-blue-800 text-center">CrafTrade</h1>
       
       <div className="flex flex-col md:flex-row gap-6">
         <textarea
